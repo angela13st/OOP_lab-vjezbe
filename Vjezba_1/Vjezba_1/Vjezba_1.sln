@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vjezba_1", "Vjezba_1.vcxproj", "{EF38756A-3F83-49CD-A399-86C4A5DD042A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task_1", "..\Task_1\Task_1.vcxproj", "{7D01F520-99EC-40EE-BD9F-34D6B22E5CD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF38756A-3F83-49CD-A399-86C4A5DD042A}.Debug|Win32.ActiveCfg = Debug|Win32
-		{EF38756A-3F83-49CD-A399-86C4A5DD042A}.Debug|Win32.Build.0 = Debug|Win32
-		{EF38756A-3F83-49CD-A399-86C4A5DD042A}.Release|Win32.ActiveCfg = Release|Win32
-		{EF38756A-3F83-49CD-A399-86C4A5DD042A}.Release|Win32.Build.0 = Release|Win32
+		{7D01F520-99EC-40EE-BD9F-34D6B22E5CD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D01F520-99EC-40EE-BD9F-34D6B22E5CD3}.Debug|Win32.Build.0 = Debug|Win32
+		{7D01F520-99EC-40EE-BD9F-34D6B22E5CD3}.Release|Win32.ActiveCfg = Release|Win32
+		{7D01F520-99EC-40EE-BD9F-34D6B22E5CD3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
